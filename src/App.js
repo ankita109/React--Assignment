@@ -1,8 +1,7 @@
 
 import './App.css';
-import Heading from './Components/Heading.js';
-import Section1 from './Components/Section1.js';
-import Section2 from './Components/Section2.js';
+
+import {Heading,Section1,Section2} from './Components';
 
 
  function App() {
