@@ -14,12 +14,12 @@ export default function   App() {
  
   function handleEmail(f){
     console.log(Email,"  ");
-     setName(f.target.value);
+     setEmail(f.target.value);
   }
 
   function handlePassword(g){
     console.log(Password,"  ");
-     setName(g.target.value);
+     setPassword(g.target.value);
   }
   return (
     <div className="App" >
